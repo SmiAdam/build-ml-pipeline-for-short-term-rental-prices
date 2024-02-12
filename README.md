@@ -2,7 +2,7 @@ W&B project available at: https://wandb.ai/udacity_mlklops/nyc_airbnb?workspace=
 
 Unfortunately I don't know how to make W&B project public. Here are images of settings:
 ![Screenshot](wandbproblem1.png)
-![Screenshot](wandbproblem2.png)
+![Screenshot](wandbproblem4.png)
 ![Screenshot](wandbproblem3.png)
 
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
